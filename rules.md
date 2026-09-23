@@ -13,16 +13,15 @@
 5. Credit budget per run: max 1 contact search + max 2 email reveals (≈3 credits).
 6. Never reveal phone numbers (5 credits each). Reveal `emails` only.
 7. Use Lusha-only reveals (`waterfallEnabled: false`) so no third-party vendor credits are used.
-7b. **Apollo (free plan, added 2026-09-23):** try Apollo FIRST for the decision-maker's name + email
-   (load its tools with ToolSearch "apollo"). Searching/viewing people is normally free; revealing an email
-   costs credits — max 2 email reveals per run, never reveal phone numbers, never upgrade or buy.
-   If Apollo finds nothing, fall back to Lusha, then to the company's PUBLIC email.
+7b. **Apollo: DO NOT USE for now.** Tested 2026-09-23: on the Free plan Apollo blocks API access to people
+   search and people enrichment ("not included in your Free plan"). Calling it wastes time. Only use Apollo
+   if Shibil says he upgraded to a paid plan — then: max 2 email reveals per run, never phones, never buy.
 8. Vibe Prospecting: only use if it has free credits left AND Lusha found no contact for a top company.
    Check cost first with `estimate-cost`. Never buy.
 
 ## Data quality
 9. **Email priority** (approved by Shibil 2026-09-23):
-   a. VERIFIED — decision-maker's email revealed by Apollo or Lusha on the company domain.
+   a. VERIFIED — decision-maker's email revealed by Lusha on the company domain.
    b. PUBLIC — if Lusha has none, an email the company itself publishes (its website contact page or its own
       job post), e.g. info@ / support@. Address the decision-maker by name if Lusha found one ("Hi Omar,"),
       otherwise "Hi {Company} team,". Mark it PUBLIC in prospects.md.

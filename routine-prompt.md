@@ -1,7 +1,8 @@
 # Scheduled Routine Prompt
 
 Schedule: Mon, Wed, Fri at 07:00 UAE time → cron `0 3 * * 1,3,5` (UTC).
-Connectors the routine needs: Indeed, Apollo, Lusha, Gmail, Firecrawl (company websites). Nothing else.
+Connectors the routine needs: Indeed, Lusha, Gmail, Firecrawl (company websites). Apollo is connected but
+disabled on the Free plan — don't call it (rules.md 7b).
 
 ---
 
