@@ -55,8 +55,8 @@ When credits run out, the run stops and says so. Nothing is ever purchased.
 ## Phases
 
 1. ✅ Setup — these files
-2. ⬜ Practice run — one run with Shibil watching (~3–5 credits), fix what looks wrong
-3. ⬜ Turn on the schedule — cloud routine Mon/Wed/Fri 07:00 UAE (`0 3 * * 1,3,5` UTC)
+2. ✅ Practice run — 2026-09-23: 3 emails sent (Akkad, Kazamer, Varasto), 2 Lusha credits used
+3. ✅ Schedule created — routine trig_01Ppq3RKSoN6HQ72Mqs44rG8, Mon/Wed/Fri 07:00 UAE (`0 3 * * 1,3,5` UTC); connectors must be added to the routine in claude.ai
 4. ⬜ Weekly review — every Friday log replies in `replies.md`, tune `icp.md` / `signals.md`
 
 Upgrade (only after ~3 positive replies): outreach domain + Google Workspace mailbox, more credits, Instantly past ~30 emails/day.
