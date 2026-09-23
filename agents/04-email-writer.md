@@ -16,7 +16,12 @@ For each VERIFIED or PUBLIC contact, write one email:
 - End with the signature from `offer.md`, then on its own line:
   "Not relevant? Just reply 'no' and I won't email again."
 
-Then create a Gmail draft with `create_draft` (plain-text `body`, no markdown) to that email.
+Then create a Gmail draft with `create_draft` to that email, passing BOTH:
+- `body`: plain text version (no markdown)
+- `htmlBody`: same text with `<br/>` line breaks, and the signature links written as short link text:
+  `WhatsApp: <a href="https://wa.me/971543220599">+971 54 322 0599</a>` and
+  `<a href="https://shibilshamz.github.io">shibilshamz.github.io</a>`
+  (plain-text-only drafts make Gmail show a long google.com/url?q=… redirect instead of the short link).
 (No labels — the Gmail connector can't create them; drafts are listed in the drafts file instead.)
 
 Also save all drafts for the run to `drafts/YYYY-MM-DD.md` with the draft link, so Shibil can review.
