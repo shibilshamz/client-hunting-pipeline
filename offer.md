@@ -30,8 +30,10 @@ Document-heavy prospects (legal, real estate, clinics) → RAG search. Everyone 
 "documents in, clean data out".
 
 ## Signature (use exactly)
+WhatsApp goes in the signature only — never ask them to WhatsApp in the email body; the ask stays "reply".
 ```
 Shibil Shamsudheen
 AI Automation Builder · Dubai
+WhatsApp: +971 54 322 0599
 shibilshamz.github.io
 ```
