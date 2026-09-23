@@ -11,3 +11,5 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-09-23 | Varasto DXB | varasto-dxb.com | 60 | #1 AI Specialist post (09-14) | Muhammed Alnaggar | Marketing Manager | info@varasto-dxb.com | PUBLIC (website) | office 04 824 2444; linkedin.com/in/muhammed-alnaggar | sent | marketing/events agency; low listed pay |
 | 2026-09-23 | Convoflow | unknown | — | — | — | — | — | — | — | not-selected | EXCLUDED: automation agency (competitor) |
 | 2026-09-23 | TALENT SPARK HR | unknown | — | — | — | — | — | — | — | not-selected | EXCLUDED: hidden employer |
+| 2026-09-23 | WeMigrate365 | wemigrate365.com | — | Admin Assistant post (Indeed, Dubai) | — | — | info@wemigrate365.com | PUBLIC | — | drafted | test run of routine; logged manually (routine did not push) |
+| 2026-09-23 | Event Souk | eventsouk.com | — | Sales & Administrative Coordinator posts (Indeed) | — | — | info@eventsouk.com | PUBLIC | — | drafted | test run of routine; logged manually (routine did not push) |

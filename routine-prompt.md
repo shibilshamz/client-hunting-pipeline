@@ -16,8 +16,10 @@ Run the client hunting pipeline in the `client-hunting-pipeline` repo for today.
    contacts found (VERIFIED/UNVERIFIED), credits used + remaining, and Gmail draft links.
 4. Append one row per researched company (selected or not, score ≥ 40) to `prospects.md` so it is never
    researched twice. Status: `drafted`, `unverified`, or `not-selected`.
-5. Commit and push with message `pipeline run YYYY-MM-DD: N drafts, C credits used`.
-6. Finish with a 3-line summary: drafts created, credits left, anything that needs Shibil.
+5. Run `git pull --rebase origin main` first, then commit and push with message `pipeline run YYYY-MM-DD: N drafts, C credits used`.
+6. Check the push worked (`git ls-remote origin main` equals your HEAD). If it failed, say so loudly in
+   the summary — otherwise the next run won't know who was already contacted.
+7. Finish with a 3-line summary: drafts created, credits left, anything that needs Shibil.
 
 If fewer than 2 companies qualify, don't pad — say whether the filters are too narrow or the signal pool
 is exhausted. If Lusha is out of credits, do steps 1–2 (scout + score only), save the shortlist, and say so.
