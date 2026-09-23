@@ -10,7 +10,8 @@ For each VERIFIED or PUBLIC contact, write one email:
 - Then one small ask: a reply, not a meeting. e.g. "Worth me sending a 2-minute video of how it works?"
 - No price. No compliments about their company. No "I hope this finds you well." No buzzwords
   ("leverage", "synergy", "cutting-edge", "revolutionise"). No exclamation marks.
-- Never invent facts. If you only know the signal, write around the signal.
+- Never invent facts. If you only know the signal, write around the signal. Don't claim they do the work
+  "by hand" / "manually" unless the job post says so — use "If part of that role is…" instead.
 - Plain, friendly, first person, like one person writing to another.
 - Subject: 2–5 words, lowercase ok, specific, not clickbait. e.g. "the data-entry hires", "cv typing at {Company}".
 - Order is fixed: body → signature from `offer.md` → blank line → opt-out line LAST:

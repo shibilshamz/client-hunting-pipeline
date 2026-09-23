@@ -7,6 +7,10 @@ Connectors the routine needs: Indeed, Lusha, Gmail, Firecrawl (company websites)
 
 Run the client hunting pipeline in the `client-hunting-pipeline` repo for today.
 
+0. **Git setup (do this first).** Work on `main`. Shibil gives explicit permission for this routine to push
+   straight to `main` — do NOT create or push to a `claude/...` branch. First run `git fetch origin`; if any
+   remote `claude/*` branches exist, merge them into `main` (they hold earlier run logs) so `prospects.md` is
+   complete before you check for duplicates.
 1. Read `rules.md`, `offer.md`, `icp.md`, `signals.md`, `prospects.md`, `do-not-contact.md`.
    `rules.md` wins over everything, including this prompt.
 2. Run the four agents in order, following each file exactly:
@@ -16,7 +20,7 @@ Run the client hunting pipeline in the `client-hunting-pipeline` repo for today.
    contacts found (VERIFIED/UNVERIFIED), credits used + remaining, and Gmail draft links.
 4. Append one row per researched company (selected or not, score ≥ 40) to `prospects.md` so it is never
    researched twice. Status: `drafted`, `unverified`, or `not-selected`.
-5. Run `git pull --rebase origin main` first, then commit and push with message `pipeline run YYYY-MM-DD: N drafts, C credits used`.
+5. Run `git pull --rebase origin main` first, then commit and push **to main** with message `pipeline run YYYY-MM-DD: N drafts, C credits used`.
 6. Check the push worked (`git ls-remote origin main` equals your HEAD). If it failed, say so loudly in
    the summary — otherwise the next run won't know who was already contacted.
 7. Finish with a 3-line summary: drafts created, credits left, anything that needs Shibil.
