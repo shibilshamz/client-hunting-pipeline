@@ -13,3 +13,8 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-09-23 | TALENT SPARK HR | unknown | — | — | — | — | — | — | — | not-selected | EXCLUDED: hidden employer |
 | 2026-09-23 | WeMigrate365 | wemigrate365.com | — | Admin Assistant post (Indeed, Dubai) | — | — | info@wemigrate365.com | PUBLIC | — | drafted | test run of routine; logged manually (routine did not push) |
 | 2026-09-23 | Event Souk | eventsouk.com | — | Sales & Administrative Coordinator posts (Indeed) | — | — | info@eventsouk.com | PUBLIC | — | drafted | test run of routine; logged manually (routine did not push) |
+| 2026-09-23 | Cafe de Paris Restaurant | cafedeparisdubai.com | 68 | #4 HR Coordinator post (09-17) | — | — | info@cafedeparisdubai.com | PUBLIC (website) | phone +971 50 751 2318; Business Bay | drafted | scheduled routine run 2; LinkedIn 51-200 staff; not in Lusha |
+| 2026-09-23 | MAQS Aluminum and Glass LLC | maqsgroup.ae | 63 | #4 Admin Assistant post (09-15) | — | — | info@maqsgroup.ae | PUBLIC (website) | phone (+971) 545962626; Jebel Ali | drafted | scheduled routine run 2; LinkedIn 11-50 staff; no decision-maker match in Lusha (4 non-target contacts found) |
+| 2026-09-23 | WEINI77 COMPANY DMCC | weini77.com | 58 | #4 CRM & Listing Coordinator post (09-14) | — | — | — | — | — | not-selected | copper/metals trading; scored just under 60 |
+| 2026-09-23 | Desert Moon Steel Trading | unknown | 46 | #4 Email & Communication Coordinator post (08-31) | — | — | — | — | — | not-selected | signal 23 days old; steel trading |
+| 2026-09-23 | THAMVOS INTERIOR DECORATION LLC | thamvosinteriors.com | 43 | #4 Operations Coordinator post (09-19) | — | — | — | — | — | not-selected | LinkedIn lists 201-500 staff — outside 10-200 ICP band |
