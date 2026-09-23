@@ -13,8 +13,11 @@ For each VERIFIED or PUBLIC contact, write one email:
 - Never invent facts. If you only know the signal, write around the signal.
 - Plain, friendly, first person, like one person writing to another.
 - Subject: 2–5 words, lowercase ok, specific, not clickbait. e.g. "the data-entry hires", "cv typing at {Company}".
-- End with the signature from `offer.md`, then on its own line:
+- Order is fixed: body → signature from `offer.md` → blank line → opt-out line LAST:
   "Not relevant? Just reply 'no' and I won't email again."
+  Never put the opt-out line above the signature.
+- Describe the HR client with neutral words only: "a UAE recruiter", "I built an n8n pipeline for it".
+  Never use she/her/he/him for the client.
 
 Then create a Gmail draft with `create_draft` to that email, passing BOTH:
 - `body`: plain text version (no markdown)

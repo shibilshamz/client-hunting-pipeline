@@ -42,4 +42,5 @@
 16. Don't scrape LinkedIn. Don't use LinkedIn automation tools.
 
 ## Privacy
-17. Never name the anonymous HR client or her company in any email or file.
+17. Never name the anonymous HR client or their company in any email or file, and never use gendered
+    words (she/her/he/him) for them in emails.
