@@ -2,7 +2,8 @@
 
 ## Sending
 1. **Never send an email.** Only create Gmail drafts. Never call send_message, reply or forward.
-2. Every draft gets the Gmail label `outreach` so Shibil can find them.
+2. Drafts stay in the Gmail **Drafts** folder (the Gmail connector can't create labels). Every draft is also
+   listed with its link in `drafts/YYYY-MM-DD.md`.
 
 ## Money / credits ($0 budget)
 3. **Never purchase anything.** Never call Lusha `purchase_options`, Vibe Prospecting `show-pricing-plans`,
@@ -16,7 +17,16 @@
    Check cost first with `estimate-cost`. Never buy.
 
 ## Data quality
-9. **No verified email → no draft.** Mark the prospect UNVERIFIED in prospects.md and move on.
+9. **Email priority** (approved by Shibil 2026-09-23):
+   a. VERIFIED — decision-maker's email revealed by Lusha on the company domain.
+   b. PUBLIC — if Lusha has none, an email the company itself publishes (its website contact page or its own
+      job post), e.g. info@ / support@. Address the decision-maker by name if Lusha found one ("Hi Omar,"),
+      otherwise "Hi {Company} team,". Mark it PUBLIC in prospects.md.
+   c. Nothing found → no draft; mark UNVERIFIED and move on. Never guess an address (no firstname@ guessing).
+9b. **Collect other public contact details** for Shibil to use by hand: company phone, WhatsApp number,
+   decision-maker's LinkedIn URL — only when published by the company itself or returned free by Lusha.
+   Never pay 5 credits for a Lusha phone reveal. Record them in the `other contacts` column of prospects.md.
+   The robot never messages anyone on WhatsApp/LinkedIn/phone — Shibil decides.
 10. **Dedup:** never research a company already in `prospects.md` (match on domain, then name).
     Never contact anyone in `do-not-contact.md`. One person, one email sequence, ever.
 11. **No padding.** If fewer than 2 companies score ≥ 60, draft only those that do — or none — and say

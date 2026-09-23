@@ -1,7 +1,7 @@
 # Scheduled Routine Prompt
 
 Schedule: Mon, Wed, Fri at 07:00 UAE time → cron `0 3 * * 1,3,5` (UTC).
-Connectors the routine needs: Indeed, Lusha, Gmail. Nothing else.
+Connectors the routine needs: Indeed, Lusha, Gmail, Firecrawl (company websites). Nothing else.
 
 ---
 
