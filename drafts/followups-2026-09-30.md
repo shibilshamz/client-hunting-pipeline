@@ -14,3 +14,6 @@ Checked Gmail first: no replies, no bounces from any of the 11 emailed companies
 | MAQS Aluminum & Glass | info@maqsgroup.ae | quotations/invoices → one sheet by project & client |
 
 Rule: this is the LAST email to each. If no reply after this, status → no-reply; never contact again.
+
+SENT 2026-09-30 — all 7 follow-ups, in the original threads. Shibil reviewed and asked Claude to send.
+If no reply by 2026-10-14 → mark each `no-reply` and never contact again.
