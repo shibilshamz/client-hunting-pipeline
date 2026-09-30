@@ -14,6 +14,7 @@ For each VERIFIED or PUBLIC contact, write one email:
   "by hand" / "manually" unless the job post says so — use "If part of that role is…" instead.
 - Plain, friendly, first person, like one person writing to another.
 - Subject: 2–5 words, lowercase ok, specific, not clickbait. e.g. "the data-entry hires", "cv typing at {Company}".
+- Always start with a greeting line: "Hi {first name}," or "Hi {Company} team,". Never start with "Saw on…".
 - Order is fixed: body → signature from `offer.md` → blank line → opt-out line LAST:
   "Not relevant? Just reply 'no' and I won't email again."
   Never put the opt-out line above the signature.
