@@ -12,3 +12,6 @@ Repair Pro & ALBAB were due 2026-10-03 (4 days late — no reminder had been set
 | Ultimate Power Solution | info@upsgenerator.com | quote requests logged + searchable assistant over product specs/manuals (RAG) |
 
 This is the LAST email to each. No reply by 2026-10-21 → no-reply, never contact again.
+
+SENT 2026-10-07 — all 4 follow-ups, in the original threads. Shibil reviewed and asked Claude to send.
+Reminder set for 2026-10-14 (follow-ups for Vompen/Trustbend/Rose Island + no-reply cleanup).
