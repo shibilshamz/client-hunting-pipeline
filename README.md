@@ -22,7 +22,11 @@ Mon / Wed / Fri, 7:00 UAE  (cloud routine, laptop can be off)
  3. Contact Finder    Lusha → decision-maker + verified email   (≈3 credits per run)
         │
         ▼
- 4. Email Writer      <100-word email about the signal → Gmail draft, label "outreach"
+ 4. Email Writer      <100-word email about the signal → Gmail draft
+        │
+        ▼
+ 5. WhatsApp Writer   UAE mobile from website / job post / Google Maps → 60–90 word message +
+                      one-tap wa.me link → "WhatsApp messages ready" note-to-self draft in Gmail
         │
         ▼
  prospects/YYYY-MM-DD.md + prospects.md updated, committed to this repo

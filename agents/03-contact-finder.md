@@ -6,7 +6,8 @@ You never contact anyone. You are the only agent that spends credits — follow 
 0. (Apollo is disabled — see rules.md 7b. Skip it.)
 1. Call Lusha `account_usage`. If remaining credits < 3 → stop, report "Lusha credits exhausted".
 2. **Find each company's website first (free):** web search "<company> Dubai contact", open the contact
-   page, and record: domain, published emails, phone, WhatsApp. Name search in Lusha matches junk — domains don't.
+   page, and record: domain, published emails, phone, WhatsApp (wa.me links, UAE mobile 05X numbers —
+   Agent 5 uses these). Name search in Lusha matches junk — domains don't.
 3. **One** Lusha `prospecting_contact_search` for all SELECTED companies together:
    - `companyDomains`: the selected domains (only fall back to `companyNames` if no website exists)
    - `jobTitles`: Founder, Co-Founder, CEO, Managing Director, General Manager, Operations Manager,

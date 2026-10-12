@@ -47,3 +47,14 @@
 ## Privacy
 17. Never name the anonymous HR client or their company in any email or file, and never use gendered
     words (she/her/he/him) for them in emails.
+
+## WhatsApp (added 2026-10-12)
+18. The robot **never sends WhatsApp messages** and never uses the WhatsApp Business API, bulk-sender tools,
+    bots or "WhatsApp number checker" services. It only prepares messages + one-tap wa.me links; Shibil
+    sends each one by hand from his WhatsApp Business app, max ~5 per day.
+19. Only use numbers the company itself publishes (website, wa.me link, job post, Google Maps listing).
+    Never guess numbers, never buy them, never use Lusha phone reveals.
+20. WhatsApp only to UAE mobile numbers (9715XXXXXXXX) or numbers inside a published wa.me link.
+21. One WhatsApp message per company, plus at most ONE short nudge after 3–4 days if no reply. Any "no" /
+    "not interested" → do-not-contact.md. "Not now" → no more messages for 6 weeks.
+22. One channel at a time: WhatsApp first when available; email only if WhatsApp gets no reply in 3 days.
