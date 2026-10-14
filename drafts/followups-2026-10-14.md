@@ -11,3 +11,5 @@ Checked Gmail first: no replies from any prospect. Only notice: Mondus delivery 
 
 This is the LAST email to each. No reply by 2026-10-21 → no-reply.
 Closed as no-reply today (final follow-up 09-30): Akkad, Kazamer, Varasto, WeMigrate365, Event Souk, Cafe de Paris, MAQS.
+
+SENT 2026-10-14 — all 3 follow-ups in the original threads. Shibil asked Claude to send.
