@@ -79,3 +79,8 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-10-21 | Care24 Health Care / nurse / Genex Clinical Laboratories | unknown | — | identical "MIS Executive – Google sheet Automation" ad (10-17) | — | — | — | — | — | not-selected | same ad text as Aims under 3 other names; origin unclear |
 | 2026-10-21 | RETA GLOBE TECHNOLOGY SERVICES | unknown | — | Executive Associate (10-10) | — | — | — | — | — | not-selected | EXCLUDED: tech company |
 | 2026-10-21 | Emirates Driving Institute | unknown | — | HR Coordinator (10-13) | — | — | — | — | — | not-selected | EXCLUDED: large training institute |
+| 2026-10-23 | Al Tara Trading co | unknown | 56 | #4 Service & Operations Coordinator (10-11; trackers, daily ops reports) | — | — | — | — | — | not-selected | home appliances Al Quoz; below 60; best candidate next run |
+| 2026-10-23 | STIINE Electromechanical Works LLC | unknown | 50 | #4 Document Controller (10-09) | — | — | — | — | — | not-selected | MEP contractor; below 60 |
+| 2026-10-23 | Al Shabboot Al Waeedh Trading Co LLC | unknown | 48 | #4 Admin cum Procurement Assistant (10-06) | — | — | — | — | — | not-selected | below 60 |
+| 2026-10-23 | Trivana General Trading LLC | unknown | 45 | #4 Admin Assistant (10-05) | — | — | — | — | — | not-selected | DIP 2; below 60 |
+| 2026-10-23 | Sitters Child Care Services | unknown | 40 | #4 Admin Assistant (10-14) | — | — | — | — | — | not-selected | Abu Dhabi childcare; weak fit |
