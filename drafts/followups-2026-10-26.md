@@ -37,3 +37,5 @@ I'm Shibil, an AI automation builder in Dubai. I emailed Rajashree last week abo
 One idea: a weekly check that flags any client file missing a signed form or session note, sent to your team as one short list.
 Could I share a 2-minute video of how it works?
 My work: shibilshamz.github.io
+
+SENT 2026-10-26: all 3 email follow-ups (Emirates Bio Farm, Fit Out House, Behaviour Enrichment). WhatsApp alternatives not used.
