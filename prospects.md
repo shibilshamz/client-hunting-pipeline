@@ -84,3 +84,8 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-10-23 | Al Shabboot Al Waeedh Trading Co LLC | unknown | 48 | #4 Admin cum Procurement Assistant (10-06) | — | — | — | — | — | not-selected | below 60 |
 | 2026-10-23 | Trivana General Trading LLC | unknown | 45 | #4 Admin Assistant (10-05) | — | — | — | — | — | not-selected | DIP 2; below 60 |
 | 2026-10-23 | Sitters Child Care Services | unknown | 40 | #4 Admin Assistant (10-14) | — | — | — | — | — | not-selected | Abu Dhabi childcare; weak fit |
+| 2026-10-26 | Brentta General Trading LLC | unknown | 60 | #1 AI Specialist (10-06; automate repetitive admin/ops tasks, Power Automate) | — | — | — | UNVERIFIED | landline +971 4 421 4320; Bay Gate Tower, Business Bay | not-selected | no website/email found; Lusha name search returned unrelated company; size unknown (pay band up to AED 60k) |
+| 2026-10-26 | OG Importing and Exporting LLC (Ajman) | unknown | 55 | AI Automation & DevOps Engineer (10-19) + Full-Stack Engineer | — | — | — | — | — | not-selected | wants in-house engineers; company name hidden in post; no verified website |
+| 2026-10-26 | PrimeStretch Wellness LLC | primestretch.ae | 50 | #4 Sales & Operations Coordinator (10-22; bookings) | — | — | hr@primestretch.ae (job-post application address only) | — | +971 52 303 3518 (job post) | not-selected | part of GCC Group of Companies; weak signal |
+| 2026-10-26 | I General Trading LLC | unknown | 40 | #4 Back Office Executive (10-23) | — | — | — | — | — | not-selected | tiny pay band, no website |
+| 2026-10-26 | Fortes Investments (Jumeirah International Nurseries) | fortes.co | — | Lead Nurturing Agent (10-12) | — | — | — | — | — | not-selected | EXCLUDED: education/nursery group |
