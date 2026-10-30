@@ -95,3 +95,10 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-10-28 | SCAN TECH GENERAL TRADING LLC | unknown | 50 | #4 Operations Coordinator (10-22; shipping docs) | — | — | — | — | — | not-selected | could not confirm website |
 | 2026-10-28 | Smart Connected Services for Technical Services LLC | unknown | 45 | #4 Document Controller (10-21) | — | — | — | — | — | not-selected | below 60 |
 | 2026-10-28 | Zaheer Afzal Transport LLC | unknown | 40 | Operations Coordinator (10-21) | — | — | — | — | — | not-selected | weak fit |
+| 2026-10-30 | CarandX FZCO | carandx.com | 70 | #1 CRM, Data & AI Automation Specialist (10-22; n8n/Make/Zapier) | — (MD "C B", phone-only in Lusha) | Managing Director | info@carandx.com | PUBLIC (website) | landline +971 4 873 0999; linkedin.com/in/cb85 | drafted | 11-50 staff; vehicle export |
+| 2026-10-30 | Al Raha Medical Center | alrahamedicalcenter.com | 68 | #4 HR Coordinator (10-23; recruitment, onboarding, records) | Mohamed Fouad | Managing Director | m.fouad@alraha.net | VERIFIED (Lusha) | landline +971 2 633 3924; linkedin.com/in/onefouad | drafted | Abu Dhabi clinic; email domain alraha.net = centre's older site |
+| 2026-10-30 | Unique Wholesale and Distributions Limited | unknown | 75 | #1 AI Specialist post (10-26) | — | — | — | UNVERIFIED | — | not-selected | could not confirm a UAE entity/site (UK-registered); revisit only if Shibil finds the Dubai contact |
+| 2026-10-30 | rapidsolutions | unknown | 45 | #4 HR Coordinator (10-16; Sharjah) | — | — | — | — | — | not-selected | below 60 |
+| 2026-10-30 | Diamond Lights General Trading | unknown | 40 | HR Coordinator (10-06) | — | — | — | — | — | not-selected | below 60 |
+| 2026-10-30 | Paris Society | unknown | — | Operations Coordinator (10-13) | — | — | — | — | — | not-selected | EXCLUDED: international hospitality group |
+| 2026-10-30 | EatEasily Online | unknown | — | AI Solutions Engineer | — | — | — | — | — | not-selected | EXCLUDED: tech company |
