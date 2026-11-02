@@ -102,3 +102,10 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-10-30 | Diamond Lights General Trading | unknown | 40 | HR Coordinator (10-06) | — | — | — | — | — | not-selected | below 60 |
 | 2026-10-30 | Paris Society | unknown | — | Operations Coordinator (10-13) | — | — | — | — | — | not-selected | EXCLUDED: international hospitality group |
 | 2026-10-30 | EatEasily Online | unknown | — | AI Solutions Engineer | — | — | — | — | — | not-selected | EXCLUDED: tech company |
+| 2026-11-02 | Happy Pet Gulf Trading LLC | happypetgulf.com | 63 | #4 Administrative Assistant (10-20; invoices, orders, dispatch, Zoho CRM) | — | — | care@happypetgulf.com | PUBLIC (website) | WA +971 56 547 5071 (wa.me on website); info-ae@happypet.biz; Office 601 Saheel Tower 1, Al Nahda 1, Dubai | drafted (WhatsApp first; email held until 11-05) | pet-food distributor (Happy Cat/Happy Dog); Lusha found no contact; size unknown |
+| 2026-11-02 | Town Music Group | townmusicgroup.com | 61 | #4 Administrative Assistant, music industry (10-30; Sheets trackers, royalty exports) | — | — | contact@townmusic.com | PUBLIC (company LinkedIn page; site unreachable) | Dubai Media City | drafted | record-label collective, 12,000+ releases since 2016; Lusha found no contact; size unknown |
+| 2026-11-02 | Kalandoor Building Contracting | unknown | 48 | #4 Admin Assistant POs & Quotations (10-15) | — | — | — | — | — | not-selected | below 60; Kalandoor Group, likely larger |
+| 2026-11-02 | Ratec | unknown | 45 | #4 Document Controller (10-19) | — | — | — | — | — | not-selected | below 60 |
+| 2026-11-02 | Waterseal Insulation Mat. Cont. Co. LLC | unknown | 45 | #4 Document Controller (10-13) | — | — | — | — | — | not-selected | below 60 |
+| 2026-11-02 | EMBED | unknown | — | Implementation Project Coordinator (10-29) | — | — | — | — | — | not-selected | EXCLUDED: global software company |
+| 2026-11-02 | TruTech Information Technologies LLC | unknown | — | Operations Coordinator – IT (10-30) | — | — | — | — | — | not-selected | EXCLUDED: IT company |
