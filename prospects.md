@@ -120,3 +120,10 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-11-13 | D Luxe Car Care | unknown | 53 | #4 HR Coordinator (11-05) | — | — | — | — | — | not-selected | |
 | 2026-11-13 | DataX Solution FZC | dataxsolution.net | — | Administrative Executive (11-10) | — | — | — | — | — | not-selected | EXCLUDED: data software (IT) |
 | 2026-11-13 | Absolute Technical Systems | unknown | — | Document Controller (11-10) | — | — | — | — | — | not-selected | EXCLUDED: hidden employer |
+| 2026-11-16 | Glow Power Building Contracting LLC | glowpower.ae | 53 | #4 Admin Assistant post (11-04) | — | — | — | — | office 04 575 1809 (Yellow Pages) | not-selected | small contractor, founded 2023 |
+| 2026-11-16 | MAGENTA SIGN MEDIA LLC | unknown | 45 | #4 HR Coordinator post (11-03) | — | — | — | — | — | not-selected | signage, Al Qusais |
+| 2026-11-16 | Mideez Construction | mideez.com | 42 | #4 Data Entry Clerk post (11-13) | — | — | info@mideez.com | — | — | not-selected | legitimacy unclear (template site, unrelated job posts) |
+| 2026-11-16 | Lion Group | unknown | — | Admin Assistant + Exec Assistant + Accountant + Finance Mgr (11-09) | — | — | — | — | — | not-selected | EXCLUDED: no website found; accounting/tax firm Dubai |
+| 2026-11-16 | AMS Group (Abdulla Al Masaood & Sons Properties) | amsgroup.ae | — | Admin Assistant post (11-10) | — | — | — | — | — | not-selected | EXCLUDED: large group |
+| 2026-11-16 | Kaya Skin Clinic | unknown | — | Admin & Insurance Coordinator (11-04) | — | — | — | — | — | not-selected | EXCLUDED: multinational chain |
+| 2026-11-16 | Logistics Contracting | unknown | — | Full-Stack Dev for internal software (11-06) | — | — | — | — | — | not-selected | EXCLUDED: company not identifiable |
