@@ -14,7 +14,7 @@ Check in this order and stop at the first good number:
    options: {query: "<Company name> <city> UAE", latitude: 25.2048, longitude: 55.2708}}`.
    Accept a result only if its `name` clearly matches the company AND its `website` domain matches (or the
    address matches the job post's area). Use `phone_e164`.
-4. Never use Lusha phone reveals (5 credits each). Never guess or construct a number.
+4. Never use paid phone reveals (RocketReach or Lusha). Never guess or construct a number.
 
 **Is it WhatsApp-able?** Normalise to digits with country code (`971…`). Only UAE **mobile** numbers count:
 `9715` + 8 digits (e.g. 971501234567). Landlines (`9714…`, `9716…`), toll-free (`800…`) and 600-numbers are

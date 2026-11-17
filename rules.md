@@ -6,13 +6,15 @@
    listed with its link in `drafts/YYYY-MM-DD.md`.
 
 ## Money / credits ($0 budget)
-3. **Never purchase anything.** Never call Lusha `purchase_options`, Vibe Prospecting `show-pricing-plans`,
+3. **Never purchase anything.** Never call Lusha `purchase_options`, any RocketReach upgrade, Vibe Prospecting `show-pricing-plans`,
    or any upgrade/checkout tool. If a tool returns "out of credits" (HTTP 402), stop the run and report it.
-4. Call Lusha `account_usage` at the start of a run. If fewer than 3 credits remain, do NOT use Lusha:
-   do the free steps (signals + scoring), save the shortlist, and report "Lusha credits exhausted".
-5. Credit budget per run: max 1 contact search + max 2 email reveals (≈3 credits).
-6. Never reveal phone numbers (5 credits each). Reveal `emails` only.
-7. Use Lusha-only reveals (`waterfallEnabled: false`) so no third-party vendor credits are used.
+4. **RocketReach is the main contact tool** (since 2026-11-17). Call RocketReach `account` at the start of a
+   run (free). `person_search` is free. `person_lookup` uses `standard_lookup` (email only).
+5. Budget per run: max 5 RocketReach `person_lookup` calls. Never use `premium_lookup`/`phone_lookup`,
+   never `company_lookup` or `email_verify` unless Shibil asks. Respect rate limits (100 lookups/hour).
+6. Never pay for phone numbers. Emails only.
+7. **Lusha = backup only**, when RocketReach has nobody on the company domain: max 1 contact search +
+   1 email reveal per run, `waterfallEnabled: false`, emails only. If Lusha has < 3 credits, skip it.
 7b. **Apollo: DO NOT USE for now.** Tested 2026-09-23: on the Free plan Apollo blocks API access to people
    search and people enrichment ("not included in your Free plan"). Calling it wastes time. Only use Apollo
    if Shibil says he upgraded to a paid plan — then: max 2 email reveals per run, never phones, never buy.
@@ -21,14 +23,14 @@
 
 ## Data quality
 9. **Email priority** (approved by Shibil 2026-09-23):
-   a. VERIFIED — decision-maker's email revealed by Lusha on the company domain.
-   b. PUBLIC — if Lusha has none, an email the company itself publishes (its website contact page or its own
-      job post), e.g. info@ / support@. Address the decision-maker by name if Lusha found one ("Hi Omar,"),
+   a. VERIFIED — decision-maker's email on the company domain, grade A/A- from RocketReach (or revealed by Lusha backup).
+   b. PUBLIC — if RocketReach/Lusha have none, an email the company itself publishes (its website contact page or its own
+      job post), e.g. info@ / support@. Address the decision-maker by name if RocketReach/Lusha found one ("Hi Omar,"),
       otherwise "Hi {Company} team,". Mark it PUBLIC in prospects.md.
    c. Nothing found → no draft; mark UNVERIFIED and move on. Never guess an address (no firstname@ guessing).
 9b. **Collect other public contact details** for Shibil to use by hand: company phone, WhatsApp number,
-   decision-maker's LinkedIn URL — only when published by the company itself or returned free by Lusha.
-   Never pay 5 credits for a Lusha phone reveal. Record them in the `other contacts` column of prospects.md.
+   decision-maker's LinkedIn URL — only when published by the company itself or returned free by RocketReach search.
+   Never pay for phone reveals (RocketReach or Lusha). Record them in the `other contacts` column of prospects.md.
    The robot never messages anyone on WhatsApp/LinkedIn/phone — Shibil decides.
 10. **Dedup:** never research a company already in `prospects.md` (match on domain, then name).
     Never contact anyone in `do-not-contact.md`. One person, one email sequence, ever.

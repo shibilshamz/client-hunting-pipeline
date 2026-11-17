@@ -5,7 +5,7 @@ picks the best 2 per run, finds the decision-maker's verified email, and writes 
 short personal email into Gmail drafts. **Shibil reads and sends. The robot never sends.**
 
 Based on Ray Fu's "automated outbound with Claude Code" playbook, adapted for:
-UAE only · $0 budget · Lusha free plan · no sending tool.
+UAE only · $0 budget · RocketReach (Lusha backup) · no sending tool.
 
 ## How it works (the simple version)
 
@@ -19,7 +19,7 @@ Mon / Wed / Fri, 7:00 UAE  (cloud routine, laptop can be off)
  2. Qualifier/Scorer  fits icp.md? not in prospects.md / do-not-contact.md? → score 1–100 → top 2
         │
         ▼
- 3. Contact Finder    Lusha → decision-maker + verified email   (≈3 credits per run)
+ 3. Contact Finder    RocketReach → decision-maker + verified email   (max 5 lookups per run)
         │
         ▼
  4. Email Writer      <100-word email about the signal → Gmail draft

@@ -1,7 +1,7 @@
 # Scheduled Routine Prompt
 
 Schedule: Mon, Wed, Fri at 07:00 UAE time → cron `0 3 * * 1,3,5` (UTC).
-Connectors the routine needs: Indeed, Lusha, Gmail, Firecrawl (company websites + Google Maps lookups). Apollo is connected but
+Connectors the routine needs: Indeed, RocketReach (main contact finder), Lusha (backup), Gmail, Firecrawl (company websites + Google Maps lookups). Apollo is connected but
 disabled on the Free plan — don't call it (rules.md 7b).
 
 ---
@@ -25,9 +25,9 @@ Run the client hunting pipeline in the `client-hunting-pipeline` repo for today.
 6. Check the push worked (`git ls-remote origin main` equals your HEAD). If it failed, say so loudly in
    the summary — otherwise the next run won't know who was already contacted.
 7. Finish with a short summary: email drafts created, WhatsApp messages ready (with company names —
-   say "open the 'WhatsApp messages ready' draft in Gmail"), credits left (Lusha + Firecrawl), anything
+   say "open the 'WhatsApp messages ready' draft in Gmail"), RocketReach lookups used + Firecrawl credits left (Lusha only if used), anything
    that needs Shibil.
 
 If fewer than 2 companies qualify, don't pad — say whether the filters are too narrow or the signal pool
-is exhausted. If Lusha is out of credits, do steps 1–2 (scout + score only), save the shortlist, and say so.
+is exhausted. If RocketReach and Lusha are both unavailable, do steps 1–2 (scout + score only), save the shortlist, and say so.
 Never send an email or a WhatsApp message. Never buy anything.
