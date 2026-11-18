@@ -130,3 +130,6 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-11-04 | Legacy Group Services - HR Consultancy | legacygroupservices.com | — | Sales Coordinator post (10-23; data from departments into CEO reports) | Vivek | — | info@legacygroupservices.com | PUBLIC | — | sent 11-17 (email) | row added 11-17; 11-04 run did not commit |
 | 2026-11-06 | The Complete Migration | thecompletemigration.com | — | CRM Quality Control & System Management Executive post | — | — | info@thecompletemigration.com | PUBLIC | — | sent 11-10 (email) | row added 11-17; 11-06 run did not commit |
 
+| 2026-11-18 | Servtech Technical Services LLC | servtech.ae | 48 | #4 Document Controller (10-30) | — | — | — | — | — | not-selected | valve/turbine maintenance, oil & gas, 51-200 |
+| 2026-11-18 | Worldwide Zoo Consultants | worldwidezoo.com | 40 | PA to Founder & CEO (11-07), weak | — | — | — | — | — | not-selected | zoo design consultancy, Abu Dhabi |
+| 2026-11-18 | Merit for Economic and Management Consultancy | unknown | — | #7 BI & KPI Analyst (11-02) | — | — | — | — | — | not-selected | no website found |
