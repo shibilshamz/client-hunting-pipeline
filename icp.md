@@ -8,10 +8,10 @@
 
 | Filter | Value | Basis |
 |---|---|---|
-| Country | United Arab Emirates (AE) — Dubai, Abu Dhabi, Sharjah | [GUESS] Shibil is Dubai-based; easiest market to start |
-| Headcount | 10–200 employees | [GUESS] big enough to have repetitive admin work, small enough that the founder/ops head decides fast |
+| Country | United Arab Emirates (AE) — Dubai, Abu Dhabi, Sharjah, Ajman, RAK | [GUESS] Shibil is Dubai-based; easiest market to start |
+| Headcount | 5–300 employees (unknown is OK — don't drop for missing size) | [GUESS] big enough to have repetitive admin work, small enough that the founder/ops head decides fast |
 | Company type | Private company | [GUESS] |
-| Industries (priority order) | 1. Recruitment & staffing agencies · 2. HR / PRO / visa services · 3. Real estate brokerages & property management · 4. Clinics & medical centres · 5. Logistics, freight forwarding · 6. Training institutes | 1–2 [DATA, n=1] match the HR pipeline project; 3–6 [GUESS] document- and data-entry-heavy businesses |
+| Industries | **Priority:** recruitment & staffing · HR / PRO / visa services · real estate & property management · clinics & medical centres · logistics & freight. **Secondary (widened 2026-11-19):** trading & distribution · construction, contracting & fit-out · car dealers & rentals · e-commerce & retail · travel & tourism · hospitality / restaurant groups · private training centres · insurance brokers · facility management | Priority 1–2 [DATA, n=1]; the rest [GUESS] — document-, quote- and data-heavy SMBs |
 | Buyer titles | Founder, CEO, Managing Director, General Manager, Operations Manager/Head, HR Manager/Head, Recruitment Manager | [GUESS] |
 | Tools they likely use | Google Workspace or Microsoft 365, Excel/Sheets, WhatsApp Business, simple CRM | [GUESS] |
 
