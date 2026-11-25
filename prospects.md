@@ -148,3 +148,9 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-11-23 | MEPWER Electromechanical Contracting | mepwer.com | 63 | #4 HR Coordinator cum Procurement Assistant (11-10, CV screening) | — | — | — | — | — | not-selected | 4th place; exact HR CV pipeline fit — Shibil may want to do by hand |
 | 2026-11-23 | CFHELMETS LLC | cfhelmets.com | 58 | #4 Clients & Operations Executive (11-12) | — | — | hello@cfhelmets.com | — | — | not-selected | flight-helmet maker |
 | 2026-11-23 | Valvinol Education Consultants | unknown | 53 | #4 Accounts Assistant (11-15) | — | — | — | — | — | not-selected | |
+| 2026-11-25 | Farmex Freshia Trading LLC | farmexfreshia.com | 80 | #4+#7 Advanced Excel Executive (11-19, automate reports) | — | — | info@farmexfreshia.com | PUBLIC (website) | WA +971 56 920 1076 (website); office +971 4 259 1373 | drafted | WhatsApp first; food wholesaler 51-200 staff |
+| 2026-11-25 | Dostan Alfa Transport and Trading FZE LLC | dostanalfa.com | 71 | #4 Sales Admin Assistant (11-16) | — | — | info@dostanalfa.com | PUBLIC (job post) | WA +971 56 464 1078 (website wa.me); 050 298 9846 (job post) | drafted | WhatsApp first; already has own fleet portal |
+| 2026-11-25 | Evernest Real Estate LLC | unknown | 66 | #4 Real Estate Admin/Back Office (10-28) | — | — | — | — | — | not-selected | |
+| 2026-11-25 | Al Basel Real Estate | unknown | 66 | #4 Real Estate Administrator (11-05) | — | — | — | — | — | not-selected | |
+| 2026-11-25 | Nest & Rest | unknown | 66 | #4 Operations Executive (11-09) | — | — | — | — | — | not-selected | holiday homes |
+| 2026-11-25 | ST STYLE | unknown | 48 | #4 Procurement Administrator (11-02) | — | — | — | — | — | not-selected | |
