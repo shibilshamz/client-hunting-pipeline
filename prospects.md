@@ -154,3 +154,14 @@ Status: `not-selected` · `unverified` · `drafted` · `sent` · `replied` · `n
 | 2026-11-25 | Al Basel Real Estate | unknown | 66 | #4 Real Estate Administrator (11-05) | — | — | — | — | — | not-selected | |
 | 2026-11-25 | Nest & Rest | unknown | 66 | #4 Operations Executive (11-09) | — | — | — | — | — | not-selected | holiday homes |
 | 2026-11-25 | ST STYLE | unknown | 48 | #4 Procurement Administrator (11-02) | — | — | — | — | — | not-selected | |
+| 2026-11-27 | Another Level General Trading | anotherlevel-uae.com | 80 | #2 Admin & Finance Exec (11-16) + 2 sourcing coordinator roles (11-13) | Lyan al-Mokhrat | Co-Founder | lyan@anotherlevel-uae.com | VERIFIED (RocketReach A) | WA +971545990366 (website); office +971 2 546 7233; info@anotherlevel-uae.com; linkedin.com/in/lyan-al-mokhrat-a2168b9b | drafted | WhatsApp first; Abu Dhabi trading (EVs, marine, robotics) |
+| 2026-11-27 | Atharva Ayurveda Clinic LLC | atharvaayurvedaclinic.com | 71 | #4 Clinic Admin cum Receptionist (11-13) | — | — | info@atharvaayurvedaclinic.com | PUBLIC (website) | WA +971521082225 (website wa.me); +971 52 257 4312 (job post); +971 4 332 5541 | drafted | WhatsApp first; already uses a chat widget for bookings |
+| 2026-11-27 | Arabian Contracting Advanced Co. LLC | unknown | 63 | #4 Office & Tender Registration Coordinator (11-19) | — | — | — | — | — | not-selected | Al Ain; website unclear (agroup-int.com is a differently named firm) |
+| 2026-11-27 | DELTA TRADING CENTER LLC | unknown | 63 | #4 Data Entry Operator (11-18) | — | — | — | — | — | not-selected | |
+| 2026-11-27 | Galva Coat | unknown | 53 | #4 Data Entry Operator (11-19) | — | — | — | — | — | not-selected | Abu Dhabi |
+| 2026-11-27 | Al Shami Sugar and Grains Packing | unknown | 48 | #4 Data Entry Clerk (11-02) | — | — | — | — | — | not-selected | |
+| 2026-11-27 | Precise Communications | unclear | — | Operations Executive, delivery + MIS (11-21) | — | — | — | — | — | not-selected | EXCLUDED: employer can't be verified (name = Dubai marketing/SMS agency) |
+| 2026-11-27 | Prana Vision Consulting FZCO (Khanna Fiber DMCC) | unknown | — | EA & Fit-Out Project Coordinator (11-17) | — | — | — | — | — | not-selected | EXCLUDED: no website |
+| 2026-11-27 | KILONEWTONS | kilonewtons.com | — | Document Controller + AI Engineer (11-20) | — | — | — | — | — | not-selected | EXCLUDED: builds own AI/software |
+| 2026-11-27 | Stylo | unknown | — | Admin Services + Financial Ops Coordinator (11-15/18) | — | — | — | — | — | not-selected | EXCLUDED: unclear business |
+| 2026-11-27 | Met T&S | unknown | — | Visa Operator / PRO Assistant (11-24) | — | — | — | — | — | not-selected | EXCLUDED: large EPC group |
